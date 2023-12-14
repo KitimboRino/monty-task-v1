@@ -8,7 +8,7 @@
  */
 void f_sub(stack_t **head, unsigned int counter)
 {
-istack_t *aux;
+stack_t *aux;
 int sus, nodes;
 
 /* Initialize the auxiliary pointer to the head of the stack */
